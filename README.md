@@ -1,0 +1,2 @@
+# startup
+get first impressions
